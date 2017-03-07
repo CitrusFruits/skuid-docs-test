@@ -1,0 +1,9 @@
+site_name: Skuid Engineering Documentation
+pages:
+  - Home: index.md
+  - Documentation Resources: documentation_resources.md
+  - Components:
+    - Components: index2.md
+    - Components: index2.md
+    - Components: index2.md
+theme: 'material'
